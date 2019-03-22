@@ -1,0 +1,16 @@
+c:\users\-\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+c:\users\-\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe
+c:\users\-\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.pdb
+c:\users\-\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\SJF_Simulation.csprojResolveAssemblyReference.cache
+c:\users\-\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.frmProcessDeatails.resources
+c:\users\-\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Properties.Resources.resources
+c:\users\-\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\SJF_Simulation.csproj.GenerateResource.Cache
+c:\users\-\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+c:\users\-\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
+c:\users\-\documents\visual studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.simulation.resources
+C:\Users\-\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.Report.resources
+C:\Users\-\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\-\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\-\Documents\visual studio 2015\Projects\SjF project\WindowsFormsApplication4\bin\Debug\WindowsFormsApplication4.exe.config
+C:\Users\-\Documents\visual studio 2015\Projects\SjF project\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.exe
+C:\Users\-\Documents\visual studio 2015\Projects\SjF project\WindowsFormsApplication4\obj\Debug\WindowsFormsApplication4.pdb
